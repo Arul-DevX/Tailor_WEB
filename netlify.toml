@@ -1,0 +1,13 @@
+# Netlify configuration file
+[build]
+  publish = "dist"
+  command = "npm run build"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  force = true # MUST be set to true for client-side routing
+
+[build.environment]
+  NODE_VERSION = "18"
