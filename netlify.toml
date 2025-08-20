@@ -1,6 +1,6 @@
 # Netlify configuration file
 [build]
-  publish = "dist"
+  publish = "build"
   command = "npm run build"
 
 [[redirects]]
@@ -11,3 +11,4 @@
 
 [build.environment]
   NODE_VERSION = "18"
+  
