@@ -1,3 +1,6 @@
+## 🌐 Live Demo
+Check it out here 👉 [My Website](https://dresstailor.netlify.app/)
+
 # Valli's Tailoring Website
 
 A beautiful, responsive website for Valli's Tailoring - a traditional Tamil-style dress tailoring service. Built with React, TypeScript, and Tailwind CSS.
@@ -167,8 +170,8 @@ The site is configured for Netlify deployment with:
 
 ## 📞 Contact Information
 
-- **Phone**: +91 98949 63349
-- **Email**: contactvallistailor@gmail.com
+- **Phone**: +91 **********
+- **Email**: contactvallistailor88890@gmail.com
 - **Address**: Chinnar, Krishnagiri, Tamil Nadu - 635117
 
 ## 🤝 Contributing
